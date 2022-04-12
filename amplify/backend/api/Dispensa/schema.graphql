@@ -1,0 +1,9 @@
+type Dispensa @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Name: String!
+  Trigger: Int!
+  Quantity: Int!
+  Section: String
+  DataScadenza: AWSDate
+}
+ 

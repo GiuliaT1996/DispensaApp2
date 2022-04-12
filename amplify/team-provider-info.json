@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dispensa-staging-233136-authRole",
+      "UnauthRoleArn": "arn:aws:iam::223052548114:role/amplify-dispensa-staging-233136-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::223052548114:role/amplify-dispensa-staging-233136-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-dispensa-staging-233136-deployment",
+      "UnauthRoleName": "amplify-dispensa-staging-233136-unauthRole",
+      "StackName": "amplify-dispensa-staging-233136",
+      "StackId": "arn:aws:cloudformation:eu-central-1:223052548114:stack/amplify-dispensa-staging-233136/08a3d440-b794-11ec-b74d-02b25c545c46",
+      "AmplifyAppId": "d39sla3zxygzsw"
+    },
+    "categories": {
+      "auth": {
+        "dispensae55c60ec": {}
+      }
+    }
+  }
+}
